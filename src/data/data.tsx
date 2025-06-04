@@ -333,8 +333,8 @@ export const contact: ContactSection = {
   items: [
     {
       type: ContactType.Email,
-      text: 'reachout@timbaker.me',
-      href: 'mailto:reachout@timbaker.me',
+      text: 'johnyucelweb@gmail.com',
+      href: 'mailto:johnyucelweb@gmail.com',
     },
     {
       type: ContactType.Location,
