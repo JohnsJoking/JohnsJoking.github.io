@@ -343,13 +343,13 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Instagram,
-      text: '@tbakerx',
-      href: 'https://www.instagram.com//',
+      text: '@john.yucel',
+      href: 'https://www.instagram.com/john.yucel/',
     },
     {
       type: ContactType.Github,
-      text: 'tbakerx',
-      href: 'https://github.com/',
+      text: 'JohnsJoking',
+      href: 'https://github.com/JohnsJoking',
     },
   ],
 };
