@@ -338,8 +338,8 @@ export const contact: ContactSection = {
     },
     {
       type: ContactType.Location,
-      text: 'Victoria BC, Canada',
-      href: 'https://www.google.ca/maps/place/Victoria,+BC/@48.4262362,-123.376775,14z',
+      text: 'Pentagon City, Arlington',
+      href: 'https://www.google.com/maps/place/Pentagon+City,+Arlington,+VA+22202/@38.8620213,-77.0612544,16z',
     },
     {
       type: ContactType.Instagram,
