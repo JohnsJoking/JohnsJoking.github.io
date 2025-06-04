@@ -270,15 +270,15 @@ export const education: TimelineItem[] = [
     date: 'March 2003',
     location: 'School of Business',
     title: 'Virginia Tech - Business Information Technology',
-    content: <p>Describe your experience at school, what you learned, what useful skills you have acquired etc.</p>,
+    content: <p>Concentration - Cybersecurtity | Minor - Integrated Security</p>,
   },
 ];
 
 export const experience: TimelineItem[] = [
   {
-    date: 'March 2010 - Present',
-    location: 'Awesome Development Company',
-    title: 'Senior UX Engineer',
+    date: 'January 2025 - Present',
+    location: 'Arlington, VA',
+    title: 'Business Systems Analyst',
     content: (
       <p>
         Describe work, special projects, notable achievements, what technologies you have been working with, and
@@ -287,9 +287,9 @@ export const experience: TimelineItem[] = [
     ),
   },
   {
-    date: 'March 2007 - February 2010',
-    location: 'Garage Startup Studio',
-    title: 'Junior bug fixer',
+    date: '2023',
+    location: 'Loudoun, VA',
+    title: 'Cybersecurity Team Member',
     content: (
       <p>
         Describe work, special projects, notable achievements, what technologies you have been working with, and
